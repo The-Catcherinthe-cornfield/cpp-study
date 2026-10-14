@@ -1,0 +1,29 @@
+# Visual Studio 编译产物与中间文件（不要上传，几百 MB 且每次编译都变）
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.tlog
+*.lastbuildstate
+*.log
+
+# 用户级配置
+*.user
+*.suo
+*.aps
+*.sdf
+*.opendb
+.vscode/
+
+# 其它
+.DS_Store
+Thumbs.db
