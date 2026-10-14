@@ -39,5 +39,14 @@
     <ClCompile Include="数组与数组名.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="二维数组练习1,2.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组练习3.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组练习4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

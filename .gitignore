@@ -12,6 +12,8 @@ ipch/
 *.ilk
 *.idb
 *.pch
+*.lib
+*.exp
 *.tlog
 *.lastbuildstate
 *.log
