@@ -48,5 +48,25 @@
     <ClCompile Include="二维数组练习4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数练习一.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数练习二a.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数练习二b.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数练习三a.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="函数练习三b.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
