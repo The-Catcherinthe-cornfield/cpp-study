@@ -45,6 +45,10 @@
 
 注意 `函数练习三a.cpp` 和 `函数练习三b.cpp` 是一对，必须同时参与编译（一个提供 `main()`，一个提供函数定义）。
 
+## 关于文件编码
+
+工程已经在编译选项里加了 `/source-charset:utf-8`，所以新建的 `.cpp` 文件只要用 UTF-8 保存（VS、VS Code 默认都是），**有没有 BOM 都能正常编译**，不用再手动处理。
+
 ## 另一个仓库
 
 Python 练习在 [`python-study`](https://github.com/The-Catcherinthe-cornfield/python-study)。
