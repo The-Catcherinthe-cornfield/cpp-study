@@ -25,6 +25,9 @@
     <Filter Include="源文件\指针">
       <UniqueIdentifier>{9b013a6c-574f-4dff-b409-05831ee371be}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\结构体">
+      <UniqueIdentifier>{6e28bafe-c1bb-4e4a-a324-4ff52f97a2ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="if语句.cpp">
@@ -86,6 +89,15 @@
     </ClCompile>
     <ClCompile Include="指针数组加函数.cpp">
       <Filter>源文件\指针</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体练习一 结构体与数组.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体练习二结构体与指针.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体练习三指针遍历.cpp">
+      <Filter>源文件\结构体</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

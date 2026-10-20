@@ -18,5 +18,6 @@ int main(){
 	for (int j = 0;j < sizeof(arr) / sizeof(arr[0]);j++) {
 		cout << arr[j] << endl;
 	}
+
 }
 	
