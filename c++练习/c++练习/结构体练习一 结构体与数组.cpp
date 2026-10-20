@@ -20,9 +20,9 @@ int main() {
     for (int i = 0;i < 3;i++) {
         sum+= arr[i].score;
     }
-    cout <<"平均分是:" << sum / 3 << endl;
-    int ma = arr[1].score;
-    string name;
+    cout << "平均分是:" << (double)sum / 3 << endl;   //(double) 强转，避免整数除法把小数丢掉
+    int ma = arr[0].score;          //从第一个开始比，保证一定能比出一个最大值
+    string name = arr[0].name;     //名字跟分数一起初始化，避免没人超过时输出空
     for (int i = 1;i < 3;i++) {
         if (arr[i].score > ma) {
             ma = arr[i].score;
