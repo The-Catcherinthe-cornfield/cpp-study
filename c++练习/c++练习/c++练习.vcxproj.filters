@@ -99,6 +99,15 @@
     <ClCompile Include="结构体练习三指针遍历.cpp">
       <Filter>源文件\结构体</Filter>
     </ClCompile>
+    <ClCompile Include="结构体练习四嵌套.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体练习五函数传参.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体练习六.cpp">
+      <Filter>源文件\结构体</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="func.h">

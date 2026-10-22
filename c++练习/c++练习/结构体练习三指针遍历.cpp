@@ -26,4 +26,7 @@ int main() {
         }
     }
     cout << "分数最高者为:" << name << endl;
+    int n = 5;
+    n %= 10;
+    cout << n;
 }
