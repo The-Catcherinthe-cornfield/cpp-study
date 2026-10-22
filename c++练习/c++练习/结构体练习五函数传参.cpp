@@ -21,7 +21,6 @@ void modifyByPointer(Student* s) {
 }
 
 void printStudentReadOnly(const Student* s) {
-	s->score = 100;
 	cout << s->name << " " << s->age << " " << s->score << endl;
 }
 int main() {
