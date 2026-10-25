@@ -28,6 +28,9 @@
     <Filter Include="源文件\结构体">
       <UniqueIdentifier>{6e28bafe-c1bb-4e4a-a324-4ff52f97a2ec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\内存">
+      <UniqueIdentifier>{2a160c72-6ee0-4077-b112-06fe44858039}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="if语句.cpp">
@@ -107,6 +110,15 @@
     </ClCompile>
     <ClCompile Include="结构体练习六.cpp">
       <Filter>源文件\结构体</Filter>
+    </ClCompile>
+    <ClCompile Include="内存四区观察.cpp">
+      <Filter>源文件\内存</Filter>
+    </ClCompile>
+    <ClCompile Include="内存练习二.cpp">
+      <Filter>源文件\内存</Filter>
+    </ClCompile>
+    <ClCompile Include="源内存练习三cpp.cpp">
+      <Filter>源文件\内存</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

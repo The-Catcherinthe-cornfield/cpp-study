@@ -23,7 +23,7 @@ int main() {
     { "孙七", 18, 88 }
     };
     Student *r=findByName(students, sizeof(students) / sizeof(students[0]), "李四");
-    if (r != NULL)
+    if (r != NULL)  //用到指针前记得判空
         cout << r->name << endl;
     else
         cout << "没找到" << endl;
