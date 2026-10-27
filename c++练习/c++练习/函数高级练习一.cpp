@@ -4,7 +4,7 @@ using namespace std;
 void printInfo(string name, int age = 18, string city = "北京") {
 	cout << name << " " << age << " " << city << endl;
 }
-void printInfo01(string name, int age = 18, string city ) {
+void printInfo01(string name, int age = 18, string city = "北京") {   //默认参数右边的参数也必须给默认值
 	cout << name << " " << age << " " << city << endl;
 }
 int main() {
