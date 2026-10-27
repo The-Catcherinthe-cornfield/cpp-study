@@ -31,6 +31,12 @@
     <Filter Include="源文件\内存">
       <UniqueIdentifier>{2a160c72-6ee0-4077-b112-06fe44858039}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\引用">
+      <UniqueIdentifier>{6eeb30c7-b7e4-4f20-a6ae-8f00ce7ba820}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\函数高级">
+      <UniqueIdentifier>{f24ba09b-1ab2-4d79-9deb-ae82e586786f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="if语句.cpp">
@@ -119,6 +125,21 @@
     </ClCompile>
     <ClCompile Include="源内存练习三cpp.cpp">
       <Filter>源文件\内存</Filter>
+    </ClCompile>
+    <ClCompile Include="引用练习一.cpp">
+      <Filter>源文件\引用</Filter>
+    </ClCompile>
+    <ClCompile Include="引用练习二.cpp">
+      <Filter>源文件\引用</Filter>
+    </ClCompile>
+    <ClCompile Include="函数高级练习一.cpp">
+      <Filter>源文件\函数高级</Filter>
+    </ClCompile>
+    <ClCompile Include="函数高级练习二.cpp">
+      <Filter>源文件\函数高级</Filter>
+    </ClCompile>
+    <ClCompile Include="函数高级练习三.cpp">
+      <Filter>源文件\函数高级</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
