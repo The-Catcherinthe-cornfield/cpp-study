@@ -37,6 +37,9 @@
     <Filter Include="源文件\函数高级">
       <UniqueIdentifier>{f24ba09b-1ab2-4d79-9deb-ae82e586786f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\类和对象">
+      <UniqueIdentifier>{4c483f7c-17c0-4c51-beae-7e4f0fc51dea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="if语句.cpp">
@@ -140,6 +143,21 @@
     </ClCompile>
     <ClCompile Include="函数高级练习三.cpp">
       <Filter>源文件\函数高级</Filter>
+    </ClCompile>
+    <ClCompile Include="封装练习一.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="封装练习二.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="封装练习三.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征练习一.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征练习二.cpp">
+      <Filter>源文件\类和对象</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
