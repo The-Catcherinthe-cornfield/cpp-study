@@ -168,6 +168,15 @@
     <ClCompile Include="对象特征练习五深拷贝.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
+    <ClCompile Include="对象特征练习六初始化列表.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征练习七.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征八.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="func.h">
