@@ -174,7 +174,16 @@
     <ClCompile Include="对象特征练习七.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
-    <ClCompile Include="对象特征八.cpp">
+    <ClCompile Include="对象特征练习八.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征练习九观察对象大小.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征练习十.cpp">
+      <Filter>源文件\类和对象</Filter>
+    </ClCompile>
+    <ClCompile Include="对象特征练习十一.cpp">
       <Filter>源文件\类和对象</Filter>
     </ClCompile>
   </ItemGroup>
